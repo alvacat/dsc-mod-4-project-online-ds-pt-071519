@@ -11,8 +11,8 @@ This project focuses on housing data.  A new start-up company, Pretend Houses, i
 * mod_4_starter_notebook.ipynb: Contains the code to analyze the data as well as some commentary about what the code is doing.  Also includes some brief explanations about why certain decisions were made.
 * mod4project.ppt: Business presentation. Contains an overview of the data analysis as well as my recommendations and potential future work. The audience for this presentation are the business owners and potential investors.
 * zillow_data.csv: Data.  This is the raw data from Zillow that my analyses are based on.
-* Blog entry: It's not in this repository but here's a link to my blog entry about this project:
-* YouTube code walkthrough:  Also not in this repository, but here's a link to a YouTube video that walks through the code:
+* Blog entry: It's not in this repository but here's a link to my blog entry about this project: [blog](https://alvacat.github.io/project_3_housing_price_prediction)
+* YouTube code walkthrough:  Also not in this repository, but here's a link to a YouTube video that walks through the code: [walkthrough](https://youtu.be/JbBpDTyJ0tw)
 
 ## Notebook Table of Contents
 The mod_4_starter_notebook has the following subsections:
